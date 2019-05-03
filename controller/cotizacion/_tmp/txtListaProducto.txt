@@ -1,0 +1,24 @@
+===> SELECT
+                  p.`cotpro_id` as 'id',
+                  p.`cotpro_tipo_id` as 'tipo_id',
+                  t.`cotref_descripcion` AS 'tipo_cotizacion',
+                  p.`cotpro_codigo_sap` as 'codigo_sap',
+                  p.`cotpro_codigo_sence` as 'codigo_sence',
+                  p.`cotpro_codigo_ot` as 'codigo_ot',
+                  p.`cotpro_descripcion` as 'descripcion',
+                  p.`cotpro_precio` as 'precio',
+                  p.`cotpro_horas` as 'horas',
+                  p.`cotpro_requisito` as 'requisito',
+                  p.`cotpro_contenido` as 'contenido',
+                  p.`cotpro_objetivo` as 'objetivo',
+                  p.`cotpro_activo` as 'activo',
+                  p.`cotpro_fecha_creacion` as 'fecha_creacion'
+                FROM
+                  `cotizacion_producto` p,
+                  `cotizacion_referencia` t
+                  WHERE p.`cotpro_tipo_id` = t.`cotref_id`  ORDER BY p.`cotpro_activo` DESC ;
+
+Array
+(
+    [acc] => 1
+)

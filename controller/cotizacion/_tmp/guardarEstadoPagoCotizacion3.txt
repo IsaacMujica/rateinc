@@ -1,0 +1,18 @@
+
+
+Array
+(
+    [idC] => 189
+    [tipo_p] => 5
+)
+
+
+Array
+(
+    [ficha] => 920
+    [idcotPag] => 189
+    [idE] => 1205
+    [idu] => 1
+    [idc] => 920
+    [ids] => 14
+)

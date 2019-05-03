@@ -1,0 +1,1 @@
+<footer class="mt-5">    <div class="text-center text-secondary"><p class="no-margin"> © 2019 cetialumnos.cl Todos los derechos reservados.</p>        <p class="no-margin"> Desarrollado por <a href="https://www.teparatres.cl/" target="_blank">TeparaTres</a> </p>    </div></footer>

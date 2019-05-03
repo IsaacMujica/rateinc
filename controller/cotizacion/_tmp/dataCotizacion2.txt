@@ -1,0 +1,45 @@
+
+
+Array
+(
+    [acc] => 4
+    [cmbReferencia] => 1
+    [cmbContacto] => 3147
+    [chkObs] => Array
+        (
+            [0] => 42
+            [1] => 48
+        )
+
+    [txtObservacion] => 
+    [txtOfertaTecnica] => 
+    [txtEntregaCondicion] => 
+    [txtHorarioCurso] => Diurno: Lunes a Viernes de: 08:30 a 12:00 / 12:30 a 17:00 horas.
+Vespertino: Lunes a Viernes de: 18:00 a 22:00 horas.
+    [txtServicio] => 
+    [txtOtro] => Uso exclusivo para cotizaciones con Organismos Públicos
+-              "Teniendo en consideración lo previsto en el artículo 79 bis del Decreto N° 250 y el Oficio de Contraloría General de la República N° 7.561, de fecha 19 de marzo de 2018, que imparte instrucciones sobre el Pago Oportuno a los Proveedores en los Procesos de Contratación Pública Regulados por la Ley N° 19.886, el pago del precio ofrecido por  (CETI) deberá realizarse dentro del plazo máximo de 30 días corridos siguientes a la recepción de la factura o del respectivo instrumento tributario de cobro"
+                            
+    [idEmpresa] => 1224
+    [idUsuario] => 1
+    [idSede] => 1
+    [txtCantidad_23] => 2
+    [txtIdProducto] => Array
+        (
+            [0] => 23
+            [1] => 83
+        )
+
+    [txtPrecio_23] => 22550
+    [txtDescuento_23] => 0
+    [txtValorTotal_23] => 45100
+    [txtCantidad_83] => 1
+    [txtPrecio_83] => 23368
+    [txtDescuento_83] => 0
+    [txtValorTotal_83] => 23368
+)
+
+
+txtValorTotal_83
+
+23368

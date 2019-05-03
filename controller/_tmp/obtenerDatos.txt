@@ -1,0 +1,67 @@
+Array
+(
+    [acc] => 2
+    [type] => create
+    [idE] => 0
+    [cmbTipoEmpresa] => 1
+    [txtRazonSocial] => asd
+    [txtNombreFantasia] => asd
+    [txtRut] => 76.045.622-5
+    [txtTelefono] => Array
+        (
+            [0] => 
+        )
+
+    [txtGiro] => asdsd
+    [txtEmail] => Array
+        (
+            [0] => asdasd@a.cl
+        )
+
+    [txtPaginaWeb] => 
+    [cmbRegion] => 11
+    [cmbComuna] => 242
+    [txtDireccion] => asd
+    [chkActivo] => on
+    [idU] => 5
+    [txtNombreC] => Array
+        (
+            [0] => asd
+        )
+
+    [txtCargoC] => Array
+        (
+            [0] => 
+        )
+
+    [selectSedeC] => Array
+        (
+            [0] => 14
+        )
+
+    [txtEmailC] => Array
+        (
+            [0] => a@a.cl
+        )
+
+    [txtTelefonoC] => Array
+        (
+            [0] => 
+        )
+
+    [txtCelularC] => Array
+        (
+            [0] => 
+        )
+
+    [cmbTipoPersonal] => Array
+        (
+            [0] => 1
+        )
+
+    [txtNombre] => Array
+        (
+            [0] => asd
+        )
+
+)

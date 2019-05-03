@@ -1,0 +1,24 @@
+Array
+(
+    [res] => 1
+    [qry] => UPDATE empresa
+              SET
+                emp_tipo                 =  3,
+                emp_rut                  = '1-91',
+                emp_razon_social         = 'M',
+                emp_giro                 = '',
+                emp_sitioweb             = '',
+                emp_email                = 'j.santibanez@metmaipo.cl',
+                emp_region_id            =  13,
+                emp_comuna_id            =  306,
+                emp_direccion            = 'MAIPU 396 MP SANTIAGO LO ESPEJO',
+                emp_telefono             = '8544054',
+                emp_nombre_representante = '',
+                emp_rut_representante    = '',
+                emp_activo               =  1,
+                emp_fecha_modificacion   =  NOW()
+              WHERE emp_id = 1205;
+    [resultado] => OK
+    [mensaje] => Sus datos se han actualizado correctamente.
+    [irURL] => 
+)

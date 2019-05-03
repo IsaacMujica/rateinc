@@ -1,0 +1,15 @@
+
+
+Array
+(
+    [acc] => 6
+    [cmbEncargadoPago] => 2
+    [cmbEncargadoCompra] => 4
+    [cmbJefeBodega] => 23
+    [txtOrdenCompra] => dsadsahg
+    [txtOtrosDatos] => sfdsafsad
+    [idu] => 1
+    [idc] => 920
+    [ids] => 14
+    [idE] => 1205
+)
