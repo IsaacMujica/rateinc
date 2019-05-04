@@ -16,7 +16,6 @@ class Usuario
     {
         $this->db = new Database();
         //$this->login = new Login();
-        $this->salt = "7p69tiDcjRKhYJlN1Wf48";
         $this->table = "users";
     }
 

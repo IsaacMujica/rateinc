@@ -66,6 +66,7 @@ $(document).ready(function(){
         },
         error: function (e) {
             alert("En desarrollo... " + e.responseText);
+            console.info(e);
         },
         beforeSend: function () {
             //$("#btnGuardar").prop("disabled", true);
@@ -73,12 +74,12 @@ $(document).ready(function(){
         success: function (data) {
             eval(data);
             console.info(data);
-            if (response.respuesta == "OK") {
-                alertOk("Correcto", response.mensaje, function () {
+            if (r.respuesta == "OK") {
+                alertOk("Correcto", r.mensaje, function () {
                     $('#modalRecuperaClave').modal('hide');
                 });
             } else {
-                alertFail("Error", response.mensaje);
+                alertFail("Error", r.mensaje);
             }
             console.log("success");
             $("#section-2").text(r.response);

@@ -68,14 +68,14 @@
 <script>
     $(document).ready(function () {
 
-        localStorage.menuDash = 0;
-        localStorage.menuComNCot = 0;
-        localStorage.menuComCot = 0;
-        localStorage.menuComEP = 0;
-        localStorage.menuComServ = 0;
-        localStorage.menuComEmp = 0;
-        localStorage.menuAdmSed = 0;
-        localStorage.menuAdmUsu = 0;
+        //localStorage.menuDash = 0;
+        //localStorage.menuComNCot = 0;
+        //localStorage.menuComCot = 0;
+        //localStorage.menuComEP = 0;
+        //localStorage.menuComServ = 0;
+        //localStorage.menuComEmp = 0;
+        //localStorage.menuAdmSed = 0;
+        //localStorage.menuAdmUsu = 0;
 
         $("#encuesta").validate({
             rules: {
